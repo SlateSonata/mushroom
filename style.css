@@ -1,0 +1,23 @@
+body{background-color: #923333}
+h1{color: #FFFFFF;
+	font-family: HELVETICA;
+	font-size: 25px;
+	background-color: #5F2727;
+	margin: 20px;
+	padding: 10px;}
+p{color: #FFFFFF;
+	font-family: HELVETICA;
+	font-size: 15px;}
+a{color: #FFFFFF;
+	font-family: HELVETICA;
+	font-size: 15px;
+	text-decoration: none;}
+a:hover{color: #5AFFF2;}
+li{color: #FFFFFF;
+	font-family: HELVETICA;
+	font-size: 15px;
+	display: inline;
+	padding: 5px;
+	background-color: #95594C;
+	border-color: #A25A54;
+	border-style: solid;}
